@@ -1,0 +1,4 @@
+name: DBStats
+main: com.github.jenya705.DBStatsPlugin
+api-version: 1.16
+version: 1.0

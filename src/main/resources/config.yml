@@ -1,0 +1,9 @@
+sqlUser: root
+sqlPassword: password
+sqlDatabaseName: minecraft
+sqlPort: 3306
+sqlHost: localhost
+
+tableName: player_stats
+timeBetweenSendingStats: 400
+timeToHours: 21
